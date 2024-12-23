@@ -1,1 +1,1 @@
-harus gystem rw ya
+harus system rw ya
